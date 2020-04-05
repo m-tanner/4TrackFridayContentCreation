@@ -10,9 +10,9 @@ class FetcherFactory:
     def get_fetcher(self):
         if self._config.cloud_provider == "AWS":
             return AWSFetcher()
-        elif self._config.cloud_provider == "gcloud":
-            return GCloudFetcher()
-        return RuntimeError(
+        if self._config.cloud_provider == "gcloud":
+            return GCloudFetcher(config=self._config)
+        raise RuntimeError(
             "CLOUD_PROVIDER was missing from your environment or "
             "didn't match any known options."
         )

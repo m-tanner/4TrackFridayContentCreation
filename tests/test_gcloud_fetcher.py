@@ -1,8 +1,9 @@
+from src.config_manager import ConfigManager
 from src.gcloud_fetcher import GCloudFetcher
 
 
 def test_aws_fetcher():
-    fetcher = GCloudFetcher()
+    fetcher = GCloudFetcher(config=ConfigManager())
 
     real_subscribers = fetcher.fetch_real_subscribers()
     assert type(real_subscribers) is list

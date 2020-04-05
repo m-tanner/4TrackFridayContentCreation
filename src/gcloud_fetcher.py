@@ -3,14 +3,15 @@ from typing import List
 
 from google.cloud import storage
 
+from src.config_manager import ConfigManager
 from src.fetcher import Fetcher
 from src.subscriber import Subscriber
 
 
 class GCloudFetcher(Fetcher):
-    def __init__(self):
-        self.bucket = storage.Client(project="four-track-friday-2").bucket(
-            bucket_name="static.4trackfriday.com"
+    def __init__(self, config: ConfigManager):
+        self.bucket = storage.Client(project=config.gcloud_project).bucket(
+            bucket_name=config.static_4tf_bucket
         )
 
     def fetch_real_subscribers(self) -> List[Subscriber]:

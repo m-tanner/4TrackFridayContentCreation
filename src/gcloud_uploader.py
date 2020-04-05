@@ -1,13 +1,14 @@
 from bs4 import BeautifulSoup
 from google.cloud import storage
 
+from src.config_manager import ConfigManager
 from src.uploader import Uploader
 
 
 class GCloudUploader(Uploader):
-    def __init__(self):
-        self.bucket = storage.Client(project="four-track-friday-2").bucket(
-            bucket_name="static.4trackfriday.com"
+    def __init__(self, config: ConfigManager):
+        self.bucket = storage.Client(project=config.gcloud_project).bucket(
+            bucket_name=config.static_4tf_bucket
         )
 
     def upload(self, path_to_file: str) -> None:

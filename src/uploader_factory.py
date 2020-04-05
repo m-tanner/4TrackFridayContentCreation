@@ -10,9 +10,9 @@ class UploaderFactory:
     def get_uploader(self):
         if self._config.cloud_provider == "AWS":
             return AWSUploader()
-        elif self._config.cloud_provider == "gcloud":
-            return GCloudUploader()
-        return RuntimeError(
+        if self._config.cloud_provider == "gcloud":
+            return GCloudUploader(config=self._config)
+        raise RuntimeError(
             "CLOUD_PROVIDER was missing from your environment or "
             "didn't match any known options."
         )
