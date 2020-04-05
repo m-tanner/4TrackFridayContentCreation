@@ -6,9 +6,9 @@ def test_aws_fetcher():
     fetcher = GCloudFetcher(config=ConfigManager())
 
     real_subscribers = fetcher.fetch_real_subscribers()
-    assert type(real_subscribers) is list
+    assert isinstance(real_subscribers, list)
     assert real_subscribers
 
     test_subscribers = fetcher.fetch_test_subscribers()
-    assert type(test_subscribers) is list
+    assert isinstance(test_subscribers, list)
     assert test_subscribers
