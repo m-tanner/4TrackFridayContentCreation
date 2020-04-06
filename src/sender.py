@@ -8,8 +8,8 @@ from src.subscriber import Subscriber
 
 
 class Sender:
-    def __init__(self, path_to_email_content: str):
-        self.path_to_email_content = path_to_email_content
+    def __init__(self, email_content: str):
+        self.email_content = email_content
 
     def send_to(self, subscribers: List[Subscriber]):
         smtp_obj = smtplib.SMTP("smtp.mail.me.com", 587)
@@ -28,10 +28,7 @@ class Sender:
             msg["From"] = me
             msg["To"] = you
 
-            with open(self.path_to_email_content, "r") as html_file:
-                body = html_file.read()
-
-            msg.set_content(body, subtype="html")
+            msg.set_content(self.email_content, subtype="html")
 
             print(f"Sending email to {subscriber.name} at {subscriber.email}...")
             try:
