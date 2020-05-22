@@ -11,7 +11,7 @@ def main(episode_name: str) -> None:
     config = ConfigManager()
 
     fetcher = FetcherFactory(config=config).get_fetcher()
-    subscribers = fetcher.fetch_test_subscribers()
+    subscribers = fetcher.fetch_real_subscribers()
 
     sender = Sender(
         email_content=merge(
@@ -37,4 +37,4 @@ def main(episode_name: str) -> None:
 
 
 if __name__ == "__main__":
-    main(episode_name="20_05_15")
+    main(episode_name="20_05_22")
