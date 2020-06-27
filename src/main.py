@@ -1,5 +1,6 @@
 import os
 
+from src.spotify_handler import SpotifyHandler
 from src.config_manager import ConfigManager
 from src.fetcher_factory import FetcherFactory
 from src.sender import Sender
@@ -9,6 +10,9 @@ from src.content_merger import merge
 
 def main(episode_name: str) -> None:
     config = ConfigManager()
+
+    spotify_handler = SpotifyHandler(config=config)
+    spotify_handler.generate_per_feature_metrics()
 
     fetcher = FetcherFactory(config=config).get_fetcher()
     subscribers = fetcher.fetch_test_subscribers()
@@ -28,13 +32,14 @@ def main(episode_name: str) -> None:
     )
 
     uploader = UploaderFactory(config=config).get_uploader()
-    uploader.upload(
+    uploader.upload_episode(
         path_to_file=os.path.join("resources/polished_episodes", f"{episode_name}.html")
     )
-    uploader.tag(
+    uploader.tag_episode(
         path_to_file=os.path.join("resources/polished_episodes", f"{episode_name}.html")
     )
+    uploader.upload_metrics(path_to_file="resources/metrics/metrics.json")
 
 
 if __name__ == "__main__":
-    main(episode_name="20_06_26")
+    main(episode_name="")

@@ -11,14 +11,25 @@ class GCloudUploader(Uploader):
             bucket_name=config.static_4tf_bucket
         )
 
-    def upload(self, path_to_file: str) -> None:
+    def upload_episode(self, path_to_file: str) -> None:
         file_name = self.get_file_name(path_to_file)
         with open(path_to_file, "rb") as html_file:
             storage.blob.Blob(
                 name=f"episodes/{file_name}", bucket=self.bucket
             ).upload_from_file(file_obj=html_file, content_type="text/html")
 
-    def tag(self, path_to_file: str) -> None:
+    def upload_metrics(self, path_to_file: str):
+        file_name = self.get_file_name(path_to_file)
+        with open(path_to_file, "rb") as html_file:
+            storage.blob.Blob(
+                name=f"playlist_stats/{file_name}", bucket=self.bucket
+            ).upload_from_file(file_obj=html_file, content_type="application/json")
+
+    @staticmethod
+    def get_file_name(path_to_file: str) -> str:
+        return path_to_file.split("/")[-1]
+
+    def tag_episode(self, path_to_file: str) -> None:
         file_name = self.get_file_name(path_to_file)
         with open(path_to_file, "r") as html_file:
             soup = BeautifulSoup(html_file, "html.parser")
@@ -32,7 +43,3 @@ class GCloudUploader(Uploader):
             "date": date,
         }
         blob.patch()
-
-    @staticmethod
-    def get_file_name(path_to_file: str) -> str:
-        return path_to_file.split("/")[-1]

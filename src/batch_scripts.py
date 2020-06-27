@@ -24,5 +24,5 @@ def batch_upload():
     uploader = GCloudUploader(config=ConfigManager())
     for file in os.listdir("resources/polished_episodes"):
         print(f"Uploading {file}...")
-        uploader.upload(f"resources/polished_episodes/{file}")
-        uploader.tag(f"resources/polished_episodes/{file}")
+        uploader.upload_episode(f"resources/polished_episodes/{file}")
+        uploader.tag_episode(f"resources/polished_episodes/{file}")

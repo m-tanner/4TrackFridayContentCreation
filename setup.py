@@ -6,6 +6,7 @@ install_requirements = [
     "six~=1.12",
     "google-cloud-storage",
     "beautifulsoup4",
+    "requests",
 ]
 
 test_requirements = [
@@ -20,12 +21,12 @@ setup(
     name="FourTrackFriday",
     version="0.1",
     packages=find_packages(),
-    url="fourtrackfriday.com",
+    url="https://4trackfriday.com",
     license="",
     author="Michael Tanner",
     author_email="tanner.mbt@gmail.com",
     description="Code for Four Track Friday Content Creation",
     install_requires=install_requirements,
     extras_require={"tests": [test_requirements]},
-    entry_points={"console_scripts": ["ftf_content=src.app.main:main"]},
+    entry_points={"console_scripts": ["ftf_content=src.main:main"]},
 )
