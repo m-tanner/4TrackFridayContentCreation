@@ -1,5 +1,6 @@
 import os
 
+from src.facebook_handler import FacebookHandler
 from src.spotify_handler import SpotifyHandler
 from src.config_manager import ConfigManager
 from src.fetcher_factory import FetcherFactory
@@ -39,6 +40,12 @@ def main(episode_name: str) -> None:
         path_to_file=os.path.join("resources/polished_episodes", f"{episode_name}.html")
     )
     uploader.upload_metrics(path_to_file="resources/metrics/metrics.json")
+
+    facebook = FacebookHandler(config=config)
+    facebook.post(
+        message="Today's episode is up!",
+        link=f"https://4trackfriday.com/show/episodes/{episode_name}.html"
+    )
 
 
 if __name__ == "__main__":
