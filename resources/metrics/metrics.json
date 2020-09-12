@@ -1,4 +1,122 @@
 {
+    "liveness": {
+        "min": {
+            "album": {
+                "album_type": "album",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0254c5c304064df85d61253ac7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485154c5c304064df85d61253ac7",
+                        "width": 64
+                    }
+                ],
+                "name": "Modjo (Remastered)",
+                "release_date": "2001"
+            },
+            "artists": [
+                {
+                    "name": "Modjo"
+                }
+            ],
+            "duration_ms": 377556,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6R7HiEHriT8uCvNwnqRA1D"
+            },
+            "id": "6R7HiEHriT8uCvNwnqRA1D",
+            "name": "No More Tears",
+            "popularity": 33,
+            "features": {
+                "danceability": 0.648,
+                "energy": 0.839,
+                "key": 9,
+                "loudness": -5.427,
+                "mode": 0,
+                "speechiness": 0.031,
+                "acousticness": 9.78e-05,
+                "instrumentalness": 5.14e-05,
+                "liveness": 0.0421,
+                "valence": 0.876,
+                "tempo": 123.022,
+                "type": "audio_features",
+                "id": "6R7HiEHriT8uCvNwnqRA1D",
+                "uri": "spotify:track:6R7HiEHriT8uCvNwnqRA1D",
+                "track_href": "https://api.spotify.com/v1/tracks/6R7HiEHriT8uCvNwnqRA1D",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6R7HiEHriT8uCvNwnqRA1D",
+                "duration_ms": 377556,
+                "time_signature": 4
+            }
+        },
+        "max": {
+            "album": {
+                "album_type": "album",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736f09f6aa228e82be93be42c6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026f09f6aa228e82be93be42c6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516f09f6aa228e82be93be42c6",
+                        "width": 64
+                    }
+                ],
+                "name": "Axe the Cables",
+                "release_date": "2010-06-22"
+            },
+            "artists": [
+                {
+                    "name": "STS9"
+                }
+            ],
+            "duration_ms": 273826,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4QPvBstnJz1VgW98jsq1jV"
+            },
+            "id": "4QPvBstnJz1VgW98jsq1jV",
+            "name": "Dem Be - Live - Acoustic",
+            "popularity": 16,
+            "features": {
+                "danceability": 0.413,
+                "energy": 0.758,
+                "key": 9,
+                "loudness": -8.305,
+                "mode": 0,
+                "speechiness": 0.0279,
+                "acousticness": 0.616,
+                "instrumentalness": 0.92,
+                "liveness": 0.961,
+                "valence": 0.279,
+                "tempo": 142.699,
+                "type": "audio_features",
+                "id": "4QPvBstnJz1VgW98jsq1jV",
+                "uri": "spotify:track:4QPvBstnJz1VgW98jsq1jV",
+                "track_href": "https://api.spotify.com/v1/tracks/4QPvBstnJz1VgW98jsq1jV",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QPvBstnJz1VgW98jsq1jV",
+                "duration_ms": 273827,
+                "time_signature": 4
+            }
+        },
+        "sum": 44.04060000000001,
+        "avg": 0.18
+    },
     "danceability": {
         "min": {
             "album": {
@@ -35,7 +153,7 @@
             },
             "id": "3ZqFdHInxTmbx7rHSitxAc",
             "name": "Linger Longer",
-            "popularity": 29,
+            "popularity": 28,
             "features": {
                 "danceability": 0.22,
                 "energy": 0.428,
@@ -92,7 +210,7 @@
             },
             "id": "1zkd1MmJtXzuDJiqZlExVm",
             "name": "Lil Bit",
-            "popularity": 41,
+            "popularity": 40,
             "features": {
                 "danceability": 0.97,
                 "energy": 0.61,
@@ -114,719 +232,8 @@
                 "time_signature": 4
             }
         },
-        "sum": 145.48099999999997,
+        "sum": 149.92499999999998,
         "avg": 0.6
-    },
-    "duration_ms": {
-        "min": {
-            "album": {
-                "album_type": "single",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273fce4082cf662cefd2fc0237d",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02fce4082cf662cefd2fc0237d",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851fce4082cf662cefd2fc0237d",
-                        "width": 64
-                    }
-                ],
-                "name": "Darkside",
-                "release_date": "2019-07-26"
-            },
-            "artists": [
-                {
-                    "name": "blink-182"
-                }
-            ],
-            "duration_ms": 49146,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/0YDcnsYCut5RFPfgAgjS2T"
-            },
-            "id": "0YDcnsYCut5RFPfgAgjS2T",
-            "name": "Generational Divide",
-            "popularity": 0,
-            "features": {
-                "danceability": 0.343,
-                "energy": 0.974,
-                "key": 5,
-                "loudness": -1.998,
-                "mode": 1,
-                "speechiness": 0.0789,
-                "acousticness": 0.00016,
-                "instrumentalness": 0.000306,
-                "liveness": 0.096,
-                "valence": 0.184,
-                "tempo": 184.901,
-                "type": "audio_features",
-                "id": "0YDcnsYCut5RFPfgAgjS2T",
-                "uri": "spotify:track:0YDcnsYCut5RFPfgAgjS2T",
-                "track_href": "https://api.spotify.com/v1/tracks/0YDcnsYCut5RFPfgAgjS2T",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YDcnsYCut5RFPfgAgjS2T",
-                "duration_ms": 49147,
-                "time_signature": 4
-            }
-        },
-        "max": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273e692562ba9d32ca63bc23665",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02e692562ba9d32ca63bc23665",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851e692562ba9d32ca63bc23665",
-                        "width": 64
-                    }
-                ],
-                "name": "Maim That Tune",
-                "release_date": "1995"
-            },
-            "artists": [
-                {
-                    "name": "Fila Brazillia"
-                }
-            ],
-            "duration_ms": 566146,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ"
-            },
-            "id": "0zaNoKovmrdck2PeLdGpeQ",
-            "name": "A Zed And Two L's",
-            "popularity": 42,
-            "features": {
-                "danceability": 0.467,
-                "energy": 0.173,
-                "key": 1,
-                "loudness": -21.835,
-                "mode": 1,
-                "speechiness": 0.0374,
-                "acousticness": 0.228,
-                "instrumentalness": 0.672,
-                "liveness": 0.0723,
-                "valence": 0.542,
-                "tempo": 99.993,
-                "type": "audio_features",
-                "id": "0zaNoKovmrdck2PeLdGpeQ",
-                "uri": "spotify:track:0zaNoKovmrdck2PeLdGpeQ",
-                "track_href": "https://api.spotify.com/v1/tracks/0zaNoKovmrdck2PeLdGpeQ",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0zaNoKovmrdck2PeLdGpeQ",
-                "duration_ms": 566147,
-                "time_signature": 4
-            }
-        },
-        "sum": 53530628,
-        "avg": 222118.79
-    },
-    "acousticness": {
-        "min": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273785e5c1944ac09df047834ea",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02785e5c1944ac09df047834ea",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851785e5c1944ac09df047834ea",
-                        "width": 64
-                    }
-                ],
-                "name": "And Now For The Whatchamacallit",
-                "release_date": "2019-05-31"
-            },
-            "artists": [
-                {
-                    "name": "Psychedelic Porn Crumpets"
-                }
-            ],
-            "duration_ms": 207453,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/1dnkljuEh79HyaKJu9N8cp"
-            },
-            "id": "1dnkljuEh79HyaKJu9N8cp",
-            "name": "Hymn For A Droid",
-            "popularity": 34,
-            "features": {
-                "danceability": 0.393,
-                "energy": 0.91,
-                "key": 5,
-                "loudness": -4.613,
-                "mode": 0,
-                "speechiness": 0.0624,
-                "acousticness": 2.94e-05,
-                "instrumentalness": 0.44,
-                "liveness": 0.318,
-                "valence": 0.251,
-                "tempo": 140.062,
-                "type": "audio_features",
-                "id": "1dnkljuEh79HyaKJu9N8cp",
-                "uri": "spotify:track:1dnkljuEh79HyaKJu9N8cp",
-                "track_href": "https://api.spotify.com/v1/tracks/1dnkljuEh79HyaKJu9N8cp",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dnkljuEh79HyaKJu9N8cp",
-                "duration_ms": 207453,
-                "time_signature": 4
-            }
-        },
-        "max": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273f5594201858122e8f30fa7e3",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02f5594201858122e8f30fa7e3",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851f5594201858122e8f30fa7e3",
-                        "width": 64
-                    }
-                ],
-                "name": "Human",
-                "release_date": "2019-01-18"
-            },
-            "artists": [
-                {
-                    "name": "dodie"
-                }
-            ],
-            "duration_ms": 211940,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/2FhTvTUcbTRIxvNmdpjtbw"
-            },
-            "id": "2FhTvTUcbTRIxvNmdpjtbw",
-            "name": "Burned Out",
-            "popularity": 57,
-            "features": {
-                "danceability": 0.518,
-                "energy": 0.14,
-                "key": 5,
-                "loudness": -16.925,
-                "mode": 1,
-                "speechiness": 0.0506,
-                "acousticness": 0.981,
-                "instrumentalness": 0.00122,
-                "liveness": 0.104,
-                "valence": 0.209,
-                "tempo": 109.75,
-                "type": "audio_features",
-                "id": "2FhTvTUcbTRIxvNmdpjtbw",
-                "uri": "spotify:track:2FhTvTUcbTRIxvNmdpjtbw",
-                "track_href": "https://api.spotify.com/v1/tracks/2FhTvTUcbTRIxvNmdpjtbw",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/2FhTvTUcbTRIxvNmdpjtbw",
-                "duration_ms": 211940,
-                "time_signature": 4
-            }
-        },
-        "sum": 68.79865569999996,
-        "avg": 0.29
-    },
-    "loudness": {
-        "min": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273558d52de25d11d2589bc60d8",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02558d52de25d11d2589bc60d8",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851558d52de25d11d2589bc60d8",
-                        "width": 64
-                    }
-                ],
-                "name": "Forsvinder",
-                "release_date": "2016-09-17"
-            },
-            "artists": [
-                {
-                    "name": "Bremer/McCoy"
-                }
-            ],
-            "duration_ms": 208500,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/7B4qGax6Rd4fbtDX0eqpHa"
-            },
-            "id": "7B4qGax6Rd4fbtDX0eqpHa",
-            "name": "Ny Begyndelse",
-            "popularity": 30,
-            "features": {
-                "danceability": 0.353,
-                "energy": 0.102,
-                "key": 10,
-                "loudness": -23.769,
-                "mode": 0,
-                "speechiness": 0.0336,
-                "acousticness": 0.967,
-                "instrumentalness": 0.925,
-                "liveness": 0.093,
-                "valence": 0.106,
-                "tempo": 168.167,
-                "type": "audio_features",
-                "id": "7B4qGax6Rd4fbtDX0eqpHa",
-                "uri": "spotify:track:7B4qGax6Rd4fbtDX0eqpHa",
-                "track_href": "https://api.spotify.com/v1/tracks/7B4qGax6Rd4fbtDX0eqpHa",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/7B4qGax6Rd4fbtDX0eqpHa",
-                "duration_ms": 208500,
-                "time_signature": 4
-            }
-        },
-        "max": {
-            "album": {
-                "album_type": "single",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27344aef635102ad58a781bd1a1",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0244aef635102ad58a781bd1a1",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485144aef635102ad58a781bd1a1",
-                        "width": 64
-                    }
-                ],
-                "name": "3rd Ward Bounce",
-                "release_date": "2018-06-01"
-            },
-            "artists": [
-                {
-                    "name": "Big Freedia"
-                },
-                {
-                    "name": "Lizzo"
-                }
-            ],
-            "duration_ms": 185890,
-            "explicit": true,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
-            },
-            "id": "4nefFqiukTvjgt8hkv73PP",
-            "name": "Karaoke (feat. Lizzo)",
-            "popularity": 56,
-            "features": {
-                "danceability": 0.736,
-                "energy": 0.967,
-                "key": 2,
-                "loudness": -1.284,
-                "mode": 1,
-                "speechiness": 0.126,
-                "acousticness": 0.0358,
-                "instrumentalness": 0,
-                "liveness": 0.398,
-                "valence": 0.497,
-                "tempo": 103.937,
-                "type": "audio_features",
-                "id": "4nefFqiukTvjgt8hkv73PP",
-                "uri": "spotify:track:4nefFqiukTvjgt8hkv73PP",
-                "track_href": "https://api.spotify.com/v1/tracks/4nefFqiukTvjgt8hkv73PP",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4nefFqiukTvjgt8hkv73PP",
-                "duration_ms": 185890,
-                "time_signature": 4
-            }
-        },
-        "sum": -1967.1419999999991,
-        "avg": -8.16
-    },
-    "valence": {
-        "min": {
-            "album": {
-                "album_type": "single",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273cd5479e338d4425b767ed46f",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02cd5479e338d4425b767ed46f",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851cd5479e338d4425b767ed46f",
-                        "width": 64
-                    }
-                ],
-                "name": "York",
-                "release_date": "2015-05-03"
-            },
-            "artists": [
-                {
-                    "name": "Christian Löffler"
-                }
-            ],
-            "duration_ms": 398937,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/5ZVH9ZZwd5KgYpPaxJRaCc"
-            },
-            "id": "5ZVH9ZZwd5KgYpPaxJRaCc",
-            "name": "Nordkap - Original Mix",
-            "popularity": 29,
-            "features": {
-                "danceability": 0.497,
-                "energy": 0.717,
-                "key": 0,
-                "loudness": -12.729,
-                "mode": 1,
-                "speechiness": 0.0484,
-                "acousticness": 0.497,
-                "instrumentalness": 0.883,
-                "liveness": 0.0989,
-                "valence": 0.0379,
-                "tempo": 119.986,
-                "type": "audio_features",
-                "id": "5ZVH9ZZwd5KgYpPaxJRaCc",
-                "uri": "spotify:track:5ZVH9ZZwd5KgYpPaxJRaCc",
-                "track_href": "https://api.spotify.com/v1/tracks/5ZVH9ZZwd5KgYpPaxJRaCc",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ZVH9ZZwd5KgYpPaxJRaCc",
-                "duration_ms": 398937,
-                "time_signature": 4
-            }
-        },
-        "max": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273d350024dec3870af849f057e",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02d350024dec3870af849f057e",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851d350024dec3870af849f057e",
-                        "width": 64
-                    }
-                ],
-                "name": "Daydreaming in Technicolor",
-                "release_date": "2010-07-23"
-            },
-            "artists": [
-                {
-                    "name": "The Bubbles"
-                }
-            ],
-            "duration_ms": 218173,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/5TxWX0yrC0J0ahn7k8iuiV"
-            },
-            "id": "5TxWX0yrC0J0ahn7k8iuiV",
-            "name": "We're All Gonna Die",
-            "popularity": 9,
-            "features": {
-                "danceability": 0.749,
-                "energy": 0.637,
-                "key": 5,
-                "loudness": -8.563,
-                "mode": 1,
-                "speechiness": 0.164,
-                "acousticness": 0.28,
-                "instrumentalness": 5.81e-06,
-                "liveness": 0.103,
-                "valence": 0.973,
-                "tempo": 99.988,
-                "type": "audio_features",
-                "id": "5TxWX0yrC0J0ahn7k8iuiV",
-                "uri": "spotify:track:5TxWX0yrC0J0ahn7k8iuiV",
-                "track_href": "https://api.spotify.com/v1/tracks/5TxWX0yrC0J0ahn7k8iuiV",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5TxWX0yrC0J0ahn7k8iuiV",
-                "duration_ms": 218173,
-                "time_signature": 4
-            }
-        },
-        "sum": 107.99610000000004,
-        "avg": 0.45
-    },
-    "energy": {
-        "min": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273558d52de25d11d2589bc60d8",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02558d52de25d11d2589bc60d8",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851558d52de25d11d2589bc60d8",
-                        "width": 64
-                    }
-                ],
-                "name": "Forsvinder",
-                "release_date": "2016-09-17"
-            },
-            "artists": [
-                {
-                    "name": "Bremer/McCoy"
-                }
-            ],
-            "duration_ms": 208500,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/7B4qGax6Rd4fbtDX0eqpHa"
-            },
-            "id": "7B4qGax6Rd4fbtDX0eqpHa",
-            "name": "Ny Begyndelse",
-            "popularity": 30,
-            "features": {
-                "danceability": 0.353,
-                "energy": 0.102,
-                "key": 10,
-                "loudness": -23.769,
-                "mode": 0,
-                "speechiness": 0.0336,
-                "acousticness": 0.967,
-                "instrumentalness": 0.925,
-                "liveness": 0.093,
-                "valence": 0.106,
-                "tempo": 168.167,
-                "type": "audio_features",
-                "id": "7B4qGax6Rd4fbtDX0eqpHa",
-                "uri": "spotify:track:7B4qGax6Rd4fbtDX0eqpHa",
-                "track_href": "https://api.spotify.com/v1/tracks/7B4qGax6Rd4fbtDX0eqpHa",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/7B4qGax6Rd4fbtDX0eqpHa",
-                "duration_ms": 208500,
-                "time_signature": 4
-            }
-        },
-        "max": {
-            "album": {
-                "album_type": "single",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273fce4082cf662cefd2fc0237d",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02fce4082cf662cefd2fc0237d",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851fce4082cf662cefd2fc0237d",
-                        "width": 64
-                    }
-                ],
-                "name": "Darkside",
-                "release_date": "2019-07-26"
-            },
-            "artists": [
-                {
-                    "name": "blink-182"
-                }
-            ],
-            "duration_ms": 49146,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/0YDcnsYCut5RFPfgAgjS2T"
-            },
-            "id": "0YDcnsYCut5RFPfgAgjS2T",
-            "name": "Generational Divide",
-            "popularity": 0,
-            "features": {
-                "danceability": 0.343,
-                "energy": 0.974,
-                "key": 5,
-                "loudness": -1.998,
-                "mode": 1,
-                "speechiness": 0.0789,
-                "acousticness": 0.00016,
-                "instrumentalness": 0.000306,
-                "liveness": 0.096,
-                "valence": 0.184,
-                "tempo": 184.901,
-                "type": "audio_features",
-                "id": "0YDcnsYCut5RFPfgAgjS2T",
-                "uri": "spotify:track:0YDcnsYCut5RFPfgAgjS2T",
-                "track_href": "https://api.spotify.com/v1/tracks/0YDcnsYCut5RFPfgAgjS2T",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YDcnsYCut5RFPfgAgjS2T",
-                "duration_ms": 49147,
-                "time_signature": 4
-            }
-        },
-        "sum": 149.82300000000004,
-        "avg": 0.62
-    },
-    "instrumentalness": {
-        "min": {
-            "album": {
-                "album_type": "single",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27369b4d7f351f084ac249891f1",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0269b4d7f351f084ac249891f1",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485169b4d7f351f084ac249891f1",
-                        "width": 64
-                    }
-                ],
-                "name": "Suburbia",
-                "release_date": "2019-06-21"
-            },
-            "artists": [
-                {
-                    "name": "Order Sixty6"
-                }
-            ],
-            "duration_ms": 210961,
-            "explicit": true,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/3x8US7nlhXtgGPrvV976T2"
-            },
-            "id": "3x8US7nlhXtgGPrvV976T2",
-            "name": "Suburbia",
-            "popularity": 6,
-            "features": {
-                "danceability": 0.755,
-                "energy": 0.577,
-                "key": 1,
-                "loudness": -6.612,
-                "mode": 0,
-                "speechiness": 0.379,
-                "acousticness": 0.241,
-                "instrumentalness": 0,
-                "liveness": 0.094,
-                "valence": 0.809,
-                "tempo": 156.058,
-                "type": "audio_features",
-                "id": "3x8US7nlhXtgGPrvV976T2",
-                "uri": "spotify:track:3x8US7nlhXtgGPrvV976T2",
-                "track_href": "https://api.spotify.com/v1/tracks/3x8US7nlhXtgGPrvV976T2",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3x8US7nlhXtgGPrvV976T2",
-                "duration_ms": 210962,
-                "time_signature": 4
-            }
-        },
-        "max": {
-            "album": {
-                "album_type": "single",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273aa574cddb2d648311e6ac3a7",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02aa574cddb2d648311e6ac3a7",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851aa574cddb2d648311e6ac3a7",
-                        "width": 64
-                    }
-                ],
-                "name": "Vega",
-                "release_date": "2017-06-16"
-            },
-            "artists": [
-                {
-                    "name": "il:lo"
-                }
-            ],
-            "duration_ms": 219000,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/6gnXuVRUWzH2irUgwCXpdz"
-            },
-            "id": "6gnXuVRUWzH2irUgwCXpdz",
-            "name": "Opale",
-            "popularity": 21,
-            "features": {
-                "danceability": 0.593,
-                "energy": 0.745,
-                "key": 11,
-                "loudness": -7.51,
-                "mode": 0,
-                "speechiness": 0.0314,
-                "acousticness": 0.0132,
-                "instrumentalness": 0.958,
-                "liveness": 0.442,
-                "valence": 0.0559,
-                "tempo": 118.022,
-                "type": "audio_features",
-                "id": "6gnXuVRUWzH2irUgwCXpdz",
-                "uri": "spotify:track:6gnXuVRUWzH2irUgwCXpdz",
-                "track_href": "https://api.spotify.com/v1/tracks/6gnXuVRUWzH2irUgwCXpdz",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6gnXuVRUWzH2irUgwCXpdz",
-                "duration_ms": 219000,
-                "time_signature": 4
-            }
-        },
-        "sum": 38.133573809999994,
-        "avg": 0.16
     },
     "tempo": {
         "min": {
@@ -921,7 +328,7 @@
             },
             "id": "5Z1R8811ADlzOJDFlv5G4t",
             "name": "Two of a Kind",
-            "popularity": 26,
+            "popularity": 24,
             "features": {
                 "danceability": 0.338,
                 "energy": 0.859,
@@ -943,8 +350,129 @@
                 "time_signature": 4
             }
         },
-        "sum": 28833.864000000005,
-        "avg": 119.64
+        "sum": 29673.251000000007,
+        "avg": 119.17
+    },
+    "energy": {
+        "min": {
+            "album": {
+                "album_type": "album",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733336e912fb7085c4599074aa",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023336e912fb7085c4599074aa",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513336e912fb7085c4599074aa",
+                        "width": 64
+                    }
+                ],
+                "name": "Mediterranean Sounds",
+                "release_date": "2016-09-08"
+            },
+            "artists": [
+                {
+                    "name": "Fazıl Say"
+                },
+                {
+                    "name": "Belle Chen"
+                }
+            ],
+            "duration_ms": 358005,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1fuxbf46fRRkMlviVm1h2Y"
+            },
+            "id": "1fuxbf46fRRkMlviVm1h2Y",
+            "name": "Black Earth",
+            "popularity": 15,
+            "features": {
+                "danceability": 0.273,
+                "energy": 0.073,
+                "key": 11,
+                "loudness": -25.522,
+                "mode": 0,
+                "speechiness": 0.0567,
+                "acousticness": 0.989,
+                "instrumentalness": 0.941,
+                "liveness": 0.111,
+                "valence": 0.0398,
+                "tempo": 66.841,
+                "type": "audio_features",
+                "id": "1fuxbf46fRRkMlviVm1h2Y",
+                "uri": "spotify:track:1fuxbf46fRRkMlviVm1h2Y",
+                "track_href": "https://api.spotify.com/v1/tracks/1fuxbf46fRRkMlviVm1h2Y",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1fuxbf46fRRkMlviVm1h2Y",
+                "duration_ms": 358005,
+                "time_signature": 4
+            }
+        },
+        "max": {
+            "album": {
+                "album_type": "single",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fce4082cf662cefd2fc0237d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fce4082cf662cefd2fc0237d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fce4082cf662cefd2fc0237d",
+                        "width": 64
+                    }
+                ],
+                "name": "Darkside",
+                "release_date": "2019-07-26"
+            },
+            "artists": [
+                {
+                    "name": "blink-182"
+                }
+            ],
+            "duration_ms": 49146,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0YDcnsYCut5RFPfgAgjS2T"
+            },
+            "id": "0YDcnsYCut5RFPfgAgjS2T",
+            "name": "Generational Divide",
+            "popularity": 0,
+            "features": {
+                "danceability": 0.343,
+                "energy": 0.974,
+                "key": 5,
+                "loudness": -1.998,
+                "mode": 1,
+                "speechiness": 0.0789,
+                "acousticness": 0.00016,
+                "instrumentalness": 0.000306,
+                "liveness": 0.096,
+                "valence": 0.184,
+                "tempo": 184.901,
+                "type": "audio_features",
+                "id": "0YDcnsYCut5RFPfgAgjS2T",
+                "uri": "spotify:track:0YDcnsYCut5RFPfgAgjS2T",
+                "track_href": "https://api.spotify.com/v1/tracks/0YDcnsYCut5RFPfgAgjS2T",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YDcnsYCut5RFPfgAgjS2T",
+                "duration_ms": 49147,
+                "time_signature": 4
+            }
+        },
+        "sum": 154.15800000000004,
+        "avg": 0.62
     },
     "popularity": {
         "min": {
@@ -1039,7 +567,7 @@
             },
             "id": "2VlLbhGLVJgdOW7kKdWWFc",
             "name": "Six Feet Under",
-            "popularity": 78,
+            "popularity": 77,
             "features": {
                 "danceability": 0.576,
                 "energy": 0.307,
@@ -1061,64 +589,306 @@
                 "time_signature": 4
             }
         },
-        "sum": 8430,
-        "avg": 34.98
+        "sum": 8582,
+        "avg": 34.47
     },
-    "liveness": {
+    "instrumentalness": {
+        "min": {
+            "album": {
+                "album_type": "single",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27369b4d7f351f084ac249891f1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0269b4d7f351f084ac249891f1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485169b4d7f351f084ac249891f1",
+                        "width": 64
+                    }
+                ],
+                "name": "Suburbia",
+                "release_date": "2019-06-21"
+            },
+            "artists": [
+                {
+                    "name": "Order Sixty6"
+                }
+            ],
+            "duration_ms": 210961,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3x8US7nlhXtgGPrvV976T2"
+            },
+            "id": "3x8US7nlhXtgGPrvV976T2",
+            "name": "Suburbia",
+            "popularity": 5,
+            "features": {
+                "danceability": 0.755,
+                "energy": 0.577,
+                "key": 1,
+                "loudness": -6.612,
+                "mode": 0,
+                "speechiness": 0.379,
+                "acousticness": 0.241,
+                "instrumentalness": 0,
+                "liveness": 0.094,
+                "valence": 0.809,
+                "tempo": 156.058,
+                "type": "audio_features",
+                "id": "3x8US7nlhXtgGPrvV976T2",
+                "uri": "spotify:track:3x8US7nlhXtgGPrvV976T2",
+                "track_href": "https://api.spotify.com/v1/tracks/3x8US7nlhXtgGPrvV976T2",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3x8US7nlhXtgGPrvV976T2",
+                "duration_ms": 210962,
+                "time_signature": 4
+            }
+        },
+        "max": {
+            "album": {
+                "album_type": "single",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aa574cddb2d648311e6ac3a7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aa574cddb2d648311e6ac3a7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aa574cddb2d648311e6ac3a7",
+                        "width": 64
+                    }
+                ],
+                "name": "Vega",
+                "release_date": "2017-06-16"
+            },
+            "artists": [
+                {
+                    "name": "il:lo"
+                }
+            ],
+            "duration_ms": 219000,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6gnXuVRUWzH2irUgwCXpdz"
+            },
+            "id": "6gnXuVRUWzH2irUgwCXpdz",
+            "name": "Opale",
+            "popularity": 20,
+            "features": {
+                "danceability": 0.593,
+                "energy": 0.745,
+                "key": 11,
+                "loudness": -7.51,
+                "mode": 0,
+                "speechiness": 0.0314,
+                "acousticness": 0.0132,
+                "instrumentalness": 0.958,
+                "liveness": 0.442,
+                "valence": 0.0559,
+                "tempo": 118.022,
+                "type": "audio_features",
+                "id": "6gnXuVRUWzH2irUgwCXpdz",
+                "uri": "spotify:track:6gnXuVRUWzH2irUgwCXpdz",
+                "track_href": "https://api.spotify.com/v1/tracks/6gnXuVRUWzH2irUgwCXpdz",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6gnXuVRUWzH2irUgwCXpdz",
+                "duration_ms": 219000,
+                "time_signature": 4
+            }
+        },
+        "sum": 39.078838729999994,
+        "avg": 0.16
+    },
+    "loudness": {
         "min": {
             "album": {
                 "album_type": "album",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273164535601cefd4edb7d52f6c",
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733336e912fb7085c4599074aa",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02164535601cefd4edb7d52f6c",
+                        "url": "https://i.scdn.co/image/ab67616d00001e023336e912fb7085c4599074aa",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851164535601cefd4edb7d52f6c",
+                        "url": "https://i.scdn.co/image/ab67616d000048513336e912fb7085c4599074aa",
                         "width": 64
                     }
                 ],
-                "name": "Maybe We Could",
-                "release_date": "2020-07-17"
+                "name": "Mediterranean Sounds",
+                "release_date": "2016-09-08"
             },
             "artists": [
                 {
-                    "name": "Kllo"
+                    "name": "Fazıl Say"
+                },
+                {
+                    "name": "Belle Chen"
                 }
             ],
-            "duration_ms": 214681,
+            "duration_ms": 358005,
             "explicit": false,
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/7I0hnTwFoLMiYbdxFGiQiM"
+                "spotify": "https://open.spotify.com/track/1fuxbf46fRRkMlviVm1h2Y"
             },
-            "id": "7I0hnTwFoLMiYbdxFGiQiM",
-            "name": "Still Here",
-            "popularity": 42,
+            "id": "1fuxbf46fRRkMlviVm1h2Y",
+            "name": "Black Earth",
+            "popularity": 15,
             "features": {
-                "danceability": 0.679,
-                "energy": 0.721,
-                "key": 2,
-                "loudness": -8.741,
-                "mode": 1,
-                "speechiness": 0.0435,
-                "acousticness": 0.272,
-                "instrumentalness": 0.587,
-                "liveness": 0.0473,
-                "valence": 0.472,
-                "tempo": 130.02,
+                "danceability": 0.273,
+                "energy": 0.073,
+                "key": 11,
+                "loudness": -25.522,
+                "mode": 0,
+                "speechiness": 0.0567,
+                "acousticness": 0.989,
+                "instrumentalness": 0.941,
+                "liveness": 0.111,
+                "valence": 0.0398,
+                "tempo": 66.841,
                 "type": "audio_features",
-                "id": "7I0hnTwFoLMiYbdxFGiQiM",
-                "uri": "spotify:track:7I0hnTwFoLMiYbdxFGiQiM",
-                "track_href": "https://api.spotify.com/v1/tracks/7I0hnTwFoLMiYbdxFGiQiM",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/7I0hnTwFoLMiYbdxFGiQiM",
-                "duration_ms": 214682,
+                "id": "1fuxbf46fRRkMlviVm1h2Y",
+                "uri": "spotify:track:1fuxbf46fRRkMlviVm1h2Y",
+                "track_href": "https://api.spotify.com/v1/tracks/1fuxbf46fRRkMlviVm1h2Y",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1fuxbf46fRRkMlviVm1h2Y",
+                "duration_ms": 358005,
+                "time_signature": 4
+            }
+        },
+        "max": {
+            "album": {
+                "album_type": "single",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27344aef635102ad58a781bd1a1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0244aef635102ad58a781bd1a1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485144aef635102ad58a781bd1a1",
+                        "width": 64
+                    }
+                ],
+                "name": "3rd Ward Bounce",
+                "release_date": "2018-06-01"
+            },
+            "artists": [
+                {
+                    "name": "Big Freedia"
+                },
+                {
+                    "name": "Lizzo"
+                }
+            ],
+            "duration_ms": 185890,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
+            },
+            "id": "4nefFqiukTvjgt8hkv73PP",
+            "name": "Karaoke (feat. Lizzo)",
+            "popularity": 55,
+            "features": {
+                "danceability": 0.736,
+                "energy": 0.967,
+                "key": 2,
+                "loudness": -1.284,
+                "mode": 1,
+                "speechiness": 0.126,
+                "acousticness": 0.0358,
+                "instrumentalness": 0,
+                "liveness": 0.398,
+                "valence": 0.497,
+                "tempo": 103.937,
+                "type": "audio_features",
+                "id": "4nefFqiukTvjgt8hkv73PP",
+                "uri": "spotify:track:4nefFqiukTvjgt8hkv73PP",
+                "track_href": "https://api.spotify.com/v1/tracks/4nefFqiukTvjgt8hkv73PP",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4nefFqiukTvjgt8hkv73PP",
+                "duration_ms": 185890,
+                "time_signature": 4
+            }
+        },
+        "sum": -2045.7449999999988,
+        "avg": -8.22
+    },
+    "valence": {
+        "min": {
+            "album": {
+                "album_type": "single",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cd5479e338d4425b767ed46f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cd5479e338d4425b767ed46f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851cd5479e338d4425b767ed46f",
+                        "width": 64
+                    }
+                ],
+                "name": "York",
+                "release_date": "2015-05-03"
+            },
+            "artists": [
+                {
+                    "name": "Christian Löffler"
+                }
+            ],
+            "duration_ms": 398937,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5ZVH9ZZwd5KgYpPaxJRaCc"
+            },
+            "id": "5ZVH9ZZwd5KgYpPaxJRaCc",
+            "name": "Nordkap - Original Mix",
+            "popularity": 29,
+            "features": {
+                "danceability": 0.497,
+                "energy": 0.717,
+                "key": 0,
+                "loudness": -12.729,
+                "mode": 1,
+                "speechiness": 0.0484,
+                "acousticness": 0.497,
+                "instrumentalness": 0.883,
+                "liveness": 0.0989,
+                "valence": 0.0379,
+                "tempo": 119.986,
+                "type": "audio_features",
+                "id": "5ZVH9ZZwd5KgYpPaxJRaCc",
+                "uri": "spotify:track:5ZVH9ZZwd5KgYpPaxJRaCc",
+                "track_href": "https://api.spotify.com/v1/tracks/5ZVH9ZZwd5KgYpPaxJRaCc",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ZVH9ZZwd5KgYpPaxJRaCc",
+                "duration_ms": 398937,
                 "time_signature": 4
             }
         },
@@ -1128,58 +898,297 @@
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2736f09f6aa228e82be93be42c6",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d350024dec3870af849f057e",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e026f09f6aa228e82be93be42c6",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d350024dec3870af849f057e",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048516f09f6aa228e82be93be42c6",
+                        "url": "https://i.scdn.co/image/ab67616d00004851d350024dec3870af849f057e",
                         "width": 64
                     }
                 ],
-                "name": "Axe the Cables",
-                "release_date": "2010-06-22"
+                "name": "Daydreaming in Technicolor",
+                "release_date": "2010-07-23"
             },
             "artists": [
                 {
-                    "name": "STS9"
+                    "name": "The Bubbles"
                 }
             ],
-            "duration_ms": 273826,
+            "duration_ms": 218173,
             "explicit": false,
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/4QPvBstnJz1VgW98jsq1jV"
+                "spotify": "https://open.spotify.com/track/5TxWX0yrC0J0ahn7k8iuiV"
             },
-            "id": "4QPvBstnJz1VgW98jsq1jV",
-            "name": "Dem Be - Live - Acoustic",
-            "popularity": 16,
+            "id": "5TxWX0yrC0J0ahn7k8iuiV",
+            "name": "We're All Gonna Die",
+            "popularity": 8,
             "features": {
-                "danceability": 0.413,
-                "energy": 0.758,
-                "key": 9,
-                "loudness": -8.305,
-                "mode": 0,
-                "speechiness": 0.0279,
-                "acousticness": 0.616,
-                "instrumentalness": 0.92,
-                "liveness": 0.961,
-                "valence": 0.279,
-                "tempo": 142.699,
+                "danceability": 0.749,
+                "energy": 0.637,
+                "key": 5,
+                "loudness": -8.563,
+                "mode": 1,
+                "speechiness": 0.164,
+                "acousticness": 0.28,
+                "instrumentalness": 5.81e-06,
+                "liveness": 0.103,
+                "valence": 0.973,
+                "tempo": 99.988,
                 "type": "audio_features",
-                "id": "4QPvBstnJz1VgW98jsq1jV",
-                "uri": "spotify:track:4QPvBstnJz1VgW98jsq1jV",
-                "track_href": "https://api.spotify.com/v1/tracks/4QPvBstnJz1VgW98jsq1jV",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QPvBstnJz1VgW98jsq1jV",
-                "duration_ms": 273827,
+                "id": "5TxWX0yrC0J0ahn7k8iuiV",
+                "uri": "spotify:track:5TxWX0yrC0J0ahn7k8iuiV",
+                "track_href": "https://api.spotify.com/v1/tracks/5TxWX0yrC0J0ahn7k8iuiV",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5TxWX0yrC0J0ahn7k8iuiV",
+                "duration_ms": 218173,
                 "time_signature": 4
             }
         },
-        "sum": 43.03810000000002,
-        "avg": 0.18
+        "sum": 111.78790000000005,
+        "avg": 0.45
+    },
+    "acousticness": {
+        "min": {
+            "album": {
+                "album_type": "album",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273785e5c1944ac09df047834ea",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02785e5c1944ac09df047834ea",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851785e5c1944ac09df047834ea",
+                        "width": 64
+                    }
+                ],
+                "name": "And Now For The Whatchamacallit",
+                "release_date": "2019-05-31"
+            },
+            "artists": [
+                {
+                    "name": "Psychedelic Porn Crumpets"
+                }
+            ],
+            "duration_ms": 207453,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1dnkljuEh79HyaKJu9N8cp"
+            },
+            "id": "1dnkljuEh79HyaKJu9N8cp",
+            "name": "Hymn For A Droid",
+            "popularity": 34,
+            "features": {
+                "danceability": 0.393,
+                "energy": 0.91,
+                "key": 5,
+                "loudness": -4.613,
+                "mode": 0,
+                "speechiness": 0.0624,
+                "acousticness": 2.94e-05,
+                "instrumentalness": 0.44,
+                "liveness": 0.318,
+                "valence": 0.251,
+                "tempo": 140.062,
+                "type": "audio_features",
+                "id": "1dnkljuEh79HyaKJu9N8cp",
+                "uri": "spotify:track:1dnkljuEh79HyaKJu9N8cp",
+                "track_href": "https://api.spotify.com/v1/tracks/1dnkljuEh79HyaKJu9N8cp",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dnkljuEh79HyaKJu9N8cp",
+                "duration_ms": 207453,
+                "time_signature": 4
+            }
+        },
+        "max": {
+            "album": {
+                "album_type": "album",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733336e912fb7085c4599074aa",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023336e912fb7085c4599074aa",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513336e912fb7085c4599074aa",
+                        "width": 64
+                    }
+                ],
+                "name": "Mediterranean Sounds",
+                "release_date": "2016-09-08"
+            },
+            "artists": [
+                {
+                    "name": "Fazıl Say"
+                },
+                {
+                    "name": "Belle Chen"
+                }
+            ],
+            "duration_ms": 358005,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1fuxbf46fRRkMlviVm1h2Y"
+            },
+            "id": "1fuxbf46fRRkMlviVm1h2Y",
+            "name": "Black Earth",
+            "popularity": 15,
+            "features": {
+                "danceability": 0.273,
+                "energy": 0.073,
+                "key": 11,
+                "loudness": -25.522,
+                "mode": 0,
+                "speechiness": 0.0567,
+                "acousticness": 0.989,
+                "instrumentalness": 0.941,
+                "liveness": 0.111,
+                "valence": 0.0398,
+                "tempo": 66.841,
+                "type": "audio_features",
+                "id": "1fuxbf46fRRkMlviVm1h2Y",
+                "uri": "spotify:track:1fuxbf46fRRkMlviVm1h2Y",
+                "track_href": "https://api.spotify.com/v1/tracks/1fuxbf46fRRkMlviVm1h2Y",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1fuxbf46fRRkMlviVm1h2Y",
+                "duration_ms": 358005,
+                "time_signature": 4
+            }
+        },
+        "sum": 72.55995349999995,
+        "avg": 0.29
+    },
+    "duration_ms": {
+        "min": {
+            "album": {
+                "album_type": "single",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fce4082cf662cefd2fc0237d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fce4082cf662cefd2fc0237d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fce4082cf662cefd2fc0237d",
+                        "width": 64
+                    }
+                ],
+                "name": "Darkside",
+                "release_date": "2019-07-26"
+            },
+            "artists": [
+                {
+                    "name": "blink-182"
+                }
+            ],
+            "duration_ms": 49146,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0YDcnsYCut5RFPfgAgjS2T"
+            },
+            "id": "0YDcnsYCut5RFPfgAgjS2T",
+            "name": "Generational Divide",
+            "popularity": 0,
+            "features": {
+                "danceability": 0.343,
+                "energy": 0.974,
+                "key": 5,
+                "loudness": -1.998,
+                "mode": 1,
+                "speechiness": 0.0789,
+                "acousticness": 0.00016,
+                "instrumentalness": 0.000306,
+                "liveness": 0.096,
+                "valence": 0.184,
+                "tempo": 184.901,
+                "type": "audio_features",
+                "id": "0YDcnsYCut5RFPfgAgjS2T",
+                "uri": "spotify:track:0YDcnsYCut5RFPfgAgjS2T",
+                "track_href": "https://api.spotify.com/v1/tracks/0YDcnsYCut5RFPfgAgjS2T",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YDcnsYCut5RFPfgAgjS2T",
+                "duration_ms": 49147,
+                "time_signature": 4
+            }
+        },
+        "max": {
+            "album": {
+                "album_type": "album",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e692562ba9d32ca63bc23665",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e692562ba9d32ca63bc23665",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e692562ba9d32ca63bc23665",
+                        "width": 64
+                    }
+                ],
+                "name": "Maim That Tune",
+                "release_date": "1995"
+            },
+            "artists": [
+                {
+                    "name": "Fila Brazillia"
+                }
+            ],
+            "duration_ms": 566146,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ"
+            },
+            "id": "0zaNoKovmrdck2PeLdGpeQ",
+            "name": "A Zed And Two L's",
+            "popularity": 41,
+            "features": {
+                "danceability": 0.467,
+                "energy": 0.173,
+                "key": 1,
+                "loudness": -21.835,
+                "mode": 1,
+                "speechiness": 0.0374,
+                "acousticness": 0.228,
+                "instrumentalness": 0.672,
+                "liveness": 0.0723,
+                "valence": 0.542,
+                "tempo": 99.993,
+                "type": "audio_features",
+                "id": "0zaNoKovmrdck2PeLdGpeQ",
+                "uri": "spotify:track:0zaNoKovmrdck2PeLdGpeQ",
+                "track_href": "https://api.spotify.com/v1/tracks/0zaNoKovmrdck2PeLdGpeQ",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0zaNoKovmrdck2PeLdGpeQ",
+                "duration_ms": 566147,
+                "time_signature": 4
+            }
+        },
+        "sum": 55642087,
+        "avg": 223462.2
     }
 }
