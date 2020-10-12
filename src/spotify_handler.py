@@ -85,7 +85,7 @@ class SpotifyHandler:
         Get paginated data for all tracks
         """
         album_params = "album(name,release_date,images,album_type)"
-        artist_params = "artists(name)"
+        artist_params = "artists(name,id)"
         track_params = (
             "limit,next,offset,total,href,items(added_at,"
             f"track({album_params},{artist_params},name,release_date,duration_ms,explicit,external_urls,popularity,id))"
@@ -112,6 +112,14 @@ class SpotifyHandler:
                     track_list.extend(track_dict["items"])
 
         return track_list
+
+    def get_artist_genres(self, artist_id: str):
+        response = requests.get(
+            f"{self.base_request_uri}artists/{artist_id}",
+            headers={"Authorization": f"Bearer {self.token}"},
+            params={"fields": ("followers,genres,href")}
+        )
+        return response.json().get("genres")
 
     def _get_track_features(self, song_ids):
         """
