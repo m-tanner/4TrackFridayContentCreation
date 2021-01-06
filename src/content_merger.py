@@ -33,4 +33,4 @@ def merge(
 
     template_soup.smooth()
 
-    return template_soup.prettify()
+    return str(template_soup)
