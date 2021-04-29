@@ -1,243 +1,123 @@
 {
-    "tempo": {
+    "liveness": {
         "min": {
             "album": {
                 "album_type": "album",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2730d8d14879eee56f4c35f436e",
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739d3105e67ebccedfd7ce88d9",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e020d8d14879eee56f4c35f436e",
+                        "url": "https://i.scdn.co/image/ab67616d00001e029d3105e67ebccedfd7ce88d9",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048510d8d14879eee56f4c35f436e",
+                        "url": "https://i.scdn.co/image/ab67616d000048519d3105e67ebccedfd7ce88d9",
                         "width": 64
                     }
                 ],
-                "name": "Salt",
-                "release_date": "2019-07-26"
+                "name": "Ripely Pine",
+                "release_date": "2013-02-19"
             },
             "artists": [
                 {
-                    "id": "574ERIqzZ5yZU9JhIf3Ysf",
-                    "name": "Angie McMahon"
+                    "id": "2wunbYU5KWrpI7RCRBkwF0",
+                    "name": "Lady Lamb"
                 }
             ],
-            "duration_ms": 223000,
+            "duration_ms": 376826,
             "explicit": false,
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/18uI37pTOz9tfk3U4jB8ci"
+                "spotify": "https://open.spotify.com/track/1aYnwCzvMk1XIlKitpQsWV"
             },
-            "id": "18uI37pTOz9tfk3U4jB8ci",
-            "name": "Soon",
-            "popularity": 40,
+            "id": "1aYnwCzvMk1XIlKitpQsWV",
+            "name": "Bird Balloons",
+            "popularity": 27,
             "features": {
-                "danceability": 0.522,
-                "energy": 0.138,
-                "key": 4,
-                "loudness": -12.233,
-                "mode": 1,
-                "speechiness": 0.0328,
-                "acousticness": 0.673,
-                "instrumentalness": 6.1e-06,
-                "liveness": 0.111,
-                "valence": 0.111,
-                "tempo": 49.725,
-                "type": "audio_features",
-                "id": "18uI37pTOz9tfk3U4jB8ci",
-                "uri": "spotify:track:18uI37pTOz9tfk3U4jB8ci",
-                "track_href": "https://api.spotify.com/v1/tracks/18uI37pTOz9tfk3U4jB8ci",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/18uI37pTOz9tfk3U4jB8ci",
-                "duration_ms": 223000,
-                "time_signature": 4
-            }
-        },
-        "max": {
-            "album": {
-                "album_type": "single",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273fda4470d6b1522fff5ab16aa",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02fda4470d6b1522fff5ab16aa",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851fda4470d6b1522fff5ab16aa",
-                        "width": 64
-                    }
-                ],
-                "name": "Two of a Kind",
-                "release_date": "2020-07-08"
-            },
-            "artists": [
-                {
-                    "id": "6P727EkBvvBKIrMHEu83eT",
-                    "name": "Adam Newling"
-                }
-            ],
-            "duration_ms": 172857,
-            "explicit": true,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/5Z1R8811ADlzOJDFlv5G4t"
-            },
-            "id": "5Z1R8811ADlzOJDFlv5G4t",
-            "name": "Two of a Kind",
-            "popularity": 16,
-            "features": {
-                "danceability": 0.338,
-                "energy": 0.859,
-                "key": 6,
-                "loudness": -6.263,
+                "danceability": 0.419,
+                "energy": 0.523,
+                "key": 1,
+                "loudness": -7.671,
                 "mode": 0,
-                "speechiness": 0.0559,
-                "acousticness": 0.000434,
-                "instrumentalness": 9.9e-06,
-                "liveness": 0.125,
-                "valence": 0.467,
-                "tempo": 215.066,
+                "speechiness": 0.0571,
+                "acousticness": 0.415,
+                "instrumentalness": 0,
+                "liveness": 0.0327,
+                "valence": 0.403,
+                "tempo": 131.22,
                 "type": "audio_features",
-                "id": "5Z1R8811ADlzOJDFlv5G4t",
-                "uri": "spotify:track:5Z1R8811ADlzOJDFlv5G4t",
-                "track_href": "https://api.spotify.com/v1/tracks/5Z1R8811ADlzOJDFlv5G4t",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Z1R8811ADlzOJDFlv5G4t",
-                "duration_ms": 172857,
-                "time_signature": 4
-            }
-        },
-        "sum": 44975.793,
-        "avg": 119.3
-    },
-    "danceability": {
-        "min": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2730aac9290fb49635f0f15c37e",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e020aac9290fb49635f0f15c37e",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048510aac9290fb49635f0f15c37e",
-                        "width": 64
-                    }
-                ],
-                "name": "The Much Much How How and I (Deluxe Edition)",
-                "release_date": "2019-04-05"
-            },
-            "artists": [
-                {
-                    "id": "6hV6oxGLeLFw17DGjIPkYD",
-                    "name": "Cosmo Sheldrake"
-                }
-            ],
-            "duration_ms": 336320,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/3ZqFdHInxTmbx7rHSitxAc"
-            },
-            "id": "3ZqFdHInxTmbx7rHSitxAc",
-            "name": "Linger Longer",
-            "popularity": 26,
-            "features": {
-                "danceability": 0.22,
-                "energy": 0.428,
-                "key": 10,
-                "loudness": -10.829,
-                "mode": 0,
-                "speechiness": 0.0443,
-                "acousticness": 0.763,
-                "instrumentalness": 0.796,
-                "liveness": 0.0757,
-                "valence": 0.217,
-                "tempo": 79.967,
-                "type": "audio_features",
-                "id": "3ZqFdHInxTmbx7rHSitxAc",
-                "uri": "spotify:track:3ZqFdHInxTmbx7rHSitxAc",
-                "track_href": "https://api.spotify.com/v1/tracks/3ZqFdHInxTmbx7rHSitxAc",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ZqFdHInxTmbx7rHSitxAc",
-                "duration_ms": 336320,
+                "id": "1aYnwCzvMk1XIlKitpQsWV",
+                "uri": "spotify:track:1aYnwCzvMk1XIlKitpQsWV",
+                "track_href": "https://api.spotify.com/v1/tracks/1aYnwCzvMk1XIlKitpQsWV",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1aYnwCzvMk1XIlKitpQsWV",
+                "duration_ms": 376827,
                 "time_signature": 3
             }
         },
         "max": {
             "album": {
-                "album_type": "single",
+                "album_type": "album",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27321ca58a5e42becdf2557649d",
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736f09f6aa228e82be93be42c6",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0221ca58a5e42becdf2557649d",
+                        "url": "https://i.scdn.co/image/ab67616d00001e026f09f6aa228e82be93be42c6",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485121ca58a5e42becdf2557649d",
+                        "url": "https://i.scdn.co/image/ab67616d000048516f09f6aa228e82be93be42c6",
                         "width": 64
                     }
                 ],
-                "name": "Lil Bit",
-                "release_date": "2019-06-29"
+                "name": "Axe the Cables",
+                "release_date": "2010-06-22"
             },
             "artists": [
                 {
-                    "id": "5BfDINDM09lRl3B8WfLFiz",
-                    "name": "No-uh"
+                    "id": "1eZ4td9oadjw7GkW0LzxNK",
+                    "name": "STS9"
                 }
             ],
-            "duration_ms": 172617,
-            "explicit": true,
+            "duration_ms": 273826,
+            "explicit": false,
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/1zkd1MmJtXzuDJiqZlExVm"
+                "spotify": "https://open.spotify.com/track/4QPvBstnJz1VgW98jsq1jV"
             },
-            "id": "1zkd1MmJtXzuDJiqZlExVm",
-            "name": "Lil Bit",
-            "popularity": 44,
+            "id": "4QPvBstnJz1VgW98jsq1jV",
+            "name": "Dem Be - Live - Acoustic",
+            "popularity": 15,
             "features": {
-                "danceability": 0.97,
-                "energy": 0.61,
-                "key": 6,
-                "loudness": -6.144,
+                "danceability": 0.413,
+                "energy": 0.758,
+                "key": 9,
+                "loudness": -8.305,
                 "mode": 0,
-                "speechiness": 0.142,
-                "acousticness": 0.0149,
-                "instrumentalness": 0,
-                "liveness": 0.0795,
-                "valence": 0.926,
-                "tempo": 113.007,
+                "speechiness": 0.0279,
+                "acousticness": 0.616,
+                "instrumentalness": 0.92,
+                "liveness": 0.961,
+                "valence": 0.279,
+                "tempo": 142.699,
                 "type": "audio_features",
-                "id": "1zkd1MmJtXzuDJiqZlExVm",
-                "uri": "spotify:track:1zkd1MmJtXzuDJiqZlExVm",
-                "track_href": "https://api.spotify.com/v1/tracks/1zkd1MmJtXzuDJiqZlExVm",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1zkd1MmJtXzuDJiqZlExVm",
-                "duration_ms": 172617,
+                "id": "4QPvBstnJz1VgW98jsq1jV",
+                "uri": "spotify:track:4QPvBstnJz1VgW98jsq1jV",
+                "track_href": "https://api.spotify.com/v1/tracks/4QPvBstnJz1VgW98jsq1jV",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QPvBstnJz1VgW98jsq1jV",
+                "duration_ms": 273827,
                 "time_signature": 4
             }
         },
-        "sum": 227.64700000000013,
-        "avg": 0.6
+        "sum": 70.83760000000002,
+        "avg": 0.19
     },
     "popularity": {
         "min": {
@@ -334,7 +214,7 @@
             },
             "id": "2VlLbhGLVJgdOW7kKdWWFc",
             "name": "Six Feet Under",
-            "popularity": 77,
+            "popularity": 76,
             "features": {
                 "danceability": 0.576,
                 "energy": 0.307,
@@ -356,65 +236,185 @@
                 "time_signature": 4
             }
         },
-        "sum": 12303,
-        "avg": 32.63
+        "sum": 12151,
+        "avg": 31.89
     },
-    "instrumentalness": {
+    "danceability": {
         "min": {
+            "album": {
+                "album_type": "album",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730aac9290fb49635f0f15c37e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020aac9290fb49635f0f15c37e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510aac9290fb49635f0f15c37e",
+                        "width": 64
+                    }
+                ],
+                "name": "The Much Much How How and I (Deluxe Edition)",
+                "release_date": "2019-04-05"
+            },
+            "artists": [
+                {
+                    "id": "6hV6oxGLeLFw17DGjIPkYD",
+                    "name": "Cosmo Sheldrake"
+                }
+            ],
+            "duration_ms": 336320,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3ZqFdHInxTmbx7rHSitxAc"
+            },
+            "id": "3ZqFdHInxTmbx7rHSitxAc",
+            "name": "Linger Longer",
+            "popularity": 25,
+            "features": {
+                "danceability": 0.22,
+                "energy": 0.428,
+                "key": 10,
+                "loudness": -10.829,
+                "mode": 0,
+                "speechiness": 0.0443,
+                "acousticness": 0.763,
+                "instrumentalness": 0.796,
+                "liveness": 0.0757,
+                "valence": 0.217,
+                "tempo": 79.967,
+                "type": "audio_features",
+                "id": "3ZqFdHInxTmbx7rHSitxAc",
+                "uri": "spotify:track:3ZqFdHInxTmbx7rHSitxAc",
+                "track_href": "https://api.spotify.com/v1/tracks/3ZqFdHInxTmbx7rHSitxAc",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ZqFdHInxTmbx7rHSitxAc",
+                "duration_ms": 336320,
+                "time_signature": 3
+            }
+        },
+        "max": {
             "album": {
                 "album_type": "single",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27369b4d7f351f084ac249891f1",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27321ca58a5e42becdf2557649d",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0269b4d7f351f084ac249891f1",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0221ca58a5e42becdf2557649d",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485169b4d7f351f084ac249891f1",
+                        "url": "https://i.scdn.co/image/ab67616d0000485121ca58a5e42becdf2557649d",
                         "width": 64
                     }
                 ],
-                "name": "Suburbia",
-                "release_date": "2019-06-21"
+                "name": "Lil Bit",
+                "release_date": "2019-06-29"
             },
             "artists": [
                 {
-                    "id": "6luAca5rbgQNksPZhVLo17",
-                    "name": "Order Sixty6"
+                    "id": "5BfDINDM09lRl3B8WfLFiz",
+                    "name": "No-uh"
                 }
             ],
-            "duration_ms": 210961,
+            "duration_ms": 172617,
             "explicit": true,
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/3x8US7nlhXtgGPrvV976T2"
+                "spotify": "https://open.spotify.com/track/1zkd1MmJtXzuDJiqZlExVm"
             },
-            "id": "3x8US7nlhXtgGPrvV976T2",
-            "name": "Suburbia",
-            "popularity": 4,
+            "id": "1zkd1MmJtXzuDJiqZlExVm",
+            "name": "Lil Bit",
+            "popularity": 43,
             "features": {
-                "danceability": 0.755,
-                "energy": 0.577,
-                "key": 1,
-                "loudness": -6.612,
+                "danceability": 0.97,
+                "energy": 0.61,
+                "key": 6,
+                "loudness": -6.144,
                 "mode": 0,
-                "speechiness": 0.379,
-                "acousticness": 0.241,
+                "speechiness": 0.142,
+                "acousticness": 0.0149,
                 "instrumentalness": 0,
-                "liveness": 0.094,
-                "valence": 0.809,
-                "tempo": 156.058,
+                "liveness": 0.0795,
+                "valence": 0.926,
+                "tempo": 113.007,
                 "type": "audio_features",
-                "id": "3x8US7nlhXtgGPrvV976T2",
-                "uri": "spotify:track:3x8US7nlhXtgGPrvV976T2",
-                "track_href": "https://api.spotify.com/v1/tracks/3x8US7nlhXtgGPrvV976T2",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3x8US7nlhXtgGPrvV976T2",
-                "duration_ms": 210962,
+                "id": "1zkd1MmJtXzuDJiqZlExVm",
+                "uri": "spotify:track:1zkd1MmJtXzuDJiqZlExVm",
+                "track_href": "https://api.spotify.com/v1/tracks/1zkd1MmJtXzuDJiqZlExVm",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1zkd1MmJtXzuDJiqZlExVm",
+                "duration_ms": 172617,
+                "time_signature": 4
+            }
+        },
+        "sum": 230.12300000000016,
+        "avg": 0.6
+    },
+    "energy": {
+        "min": {
+            "album": {
+                "album_type": "album",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e31c86c73fea3100ae03261a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e31c86c73fea3100ae03261a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e31c86c73fea3100ae03261a",
+                        "width": 64
+                    }
+                ],
+                "name": "To Cy & Lee: Instrumentals, Vol. 1",
+                "release_date": "2020-02-28"
+            },
+            "artists": [
+                {
+                    "id": "3LfKt6bEMIfFIEryeai8Mm",
+                    "name": "Alabaster DePlume"
+                }
+            ],
+            "duration_ms": 292626,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1D7z1q00OijYNrr0Bd05Zz"
+            },
+            "id": "1D7z1q00OijYNrr0Bd05Zz",
+            "name": "Visit Croatia",
+            "popularity": 22,
+            "features": {
+                "danceability": 0.288,
+                "energy": 0.0604,
+                "key": 0,
+                "loudness": -15.886,
+                "mode": 0,
+                "speechiness": 0.0351,
+                "acousticness": 0.951,
+                "instrumentalness": 0.932,
+                "liveness": 0.118,
+                "valence": 0.126,
+                "tempo": 104.46,
+                "type": "audio_features",
+                "id": "1D7z1q00OijYNrr0Bd05Zz",
+                "uri": "spotify:track:1D7z1q00OijYNrr0Bd05Zz",
+                "track_href": "https://api.spotify.com/v1/tracks/1D7z1q00OijYNrr0Bd05Zz",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1D7z1q00OijYNrr0Bd05Zz",
+                "duration_ms": 292627,
                 "time_signature": 4
             }
         },
@@ -424,64 +424,60 @@
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2737e8a7f914cd2af45078f8c43",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fce4082cf662cefd2fc0237d",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e027e8a7f914cd2af45078f8c43",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fce4082cf662cefd2fc0237d",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048517e8a7f914cd2af45078f8c43",
+                        "url": "https://i.scdn.co/image/ab67616d00004851fce4082cf662cefd2fc0237d",
                         "width": 64
                     }
                 ],
-                "name": "unwind tape",
-                "release_date": "2021-01-22"
+                "name": "Darkside",
+                "release_date": "2019-07-26"
             },
             "artists": [
                 {
-                    "id": "40LG0ZgaIlEWo1mwGNp4yo",
-                    "name": "Sundreamer"
-                },
-                {
-                    "id": "5BCLvW3qaUm39VjiZ8INmm",
-                    "name": "edapollo"
+                    "id": "6FBDaR13swtiWwGhX1WQsP",
+                    "name": "blink-182"
                 }
             ],
-            "duration_ms": 137439,
+            "duration_ms": 49146,
             "explicit": false,
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/6Pq35pSBDs4FVlieD3EulS"
+                "spotify": "https://open.spotify.com/track/0YDcnsYCut5RFPfgAgjS2T"
             },
-            "id": "6Pq35pSBDs4FVlieD3EulS",
-            "name": "fairfield boathouse",
-            "popularity": 32,
+            "id": "0YDcnsYCut5RFPfgAgjS2T",
+            "name": "Generational Divide",
+            "popularity": 0,
             "features": {
-                "danceability": 0.25,
-                "energy": 0.123,
+                "danceability": 0.343,
+                "energy": 0.974,
                 "key": 5,
-                "loudness": -21.517,
+                "loudness": -1.998,
                 "mode": 1,
-                "speechiness": 0.0387,
-                "acousticness": 0.942,
-                "instrumentalness": 0.963,
-                "liveness": 0.114,
-                "valence": 0.159,
-                "tempo": 81.647,
+                "speechiness": 0.0789,
+                "acousticness": 0.00016,
+                "instrumentalness": 0.000306,
+                "liveness": 0.096,
+                "valence": 0.184,
+                "tempo": 184.901,
                 "type": "audio_features",
-                "id": "6Pq35pSBDs4FVlieD3EulS",
-                "uri": "spotify:track:6Pq35pSBDs4FVlieD3EulS",
-                "track_href": "https://api.spotify.com/v1/tracks/6Pq35pSBDs4FVlieD3EulS",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Pq35pSBDs4FVlieD3EulS",
-                "duration_ms": 137439,
+                "id": "0YDcnsYCut5RFPfgAgjS2T",
+                "uri": "spotify:track:0YDcnsYCut5RFPfgAgjS2T",
+                "track_href": "https://api.spotify.com/v1/tracks/0YDcnsYCut5RFPfgAgjS2T",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YDcnsYCut5RFPfgAgjS2T",
+                "duration_ms": 49147,
                 "time_signature": 4
             }
         },
-        "sum": 60.0992533,
-        "avg": 0.16
+        "sum": 236.6479999999999,
+        "avg": 0.62
     },
     "acousticness": {
         "min": {
@@ -520,7 +516,7 @@
             },
             "id": "4Hh76rzgod9YzC9ULr3fRZ",
             "name": "Plagiarise",
-            "popularity": 0,
+            "popularity": 15,
             "features": {
                 "danceability": 0.405,
                 "energy": 0.933,
@@ -604,252 +600,8 @@
                 "time_signature": 4
             }
         },
-        "sum": 103.88377609999998,
+        "sum": 106.26477609999996,
         "avg": 0.28
-    },
-    "loudness": {
-        "min": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273e2884db98b0ef093e43f4442",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02e2884db98b0ef093e43f4442",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851e2884db98b0ef093e43f4442",
-                        "width": 64
-                    }
-                ],
-                "name": "some kind of peace",
-                "release_date": "2020-11-06"
-            },
-            "artists": [
-                {
-                    "id": "7E3BRXV9ZbCt5lQTCXMTia",
-                    "name": "Ólafur Arnalds"
-                }
-            ],
-            "duration_ms": 303891,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/5H2Mf22OhaswQNHZwb7q5h"
-            },
-            "id": "5H2Mf22OhaswQNHZwb7q5h",
-            "name": "Undone",
-            "popularity": 43,
-            "features": {
-                "danceability": 0.272,
-                "energy": 0.0775,
-                "key": 6,
-                "loudness": -25.807,
-                "mode": 1,
-                "speechiness": 0.0427,
-                "acousticness": 0.989,
-                "instrumentalness": 0.566,
-                "liveness": 0.117,
-                "valence": 0.101,
-                "tempo": 119.899,
-                "type": "audio_features",
-                "id": "5H2Mf22OhaswQNHZwb7q5h",
-                "uri": "spotify:track:5H2Mf22OhaswQNHZwb7q5h",
-                "track_href": "https://api.spotify.com/v1/tracks/5H2Mf22OhaswQNHZwb7q5h",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5H2Mf22OhaswQNHZwb7q5h",
-                "duration_ms": 303892,
-                "time_signature": 4
-            }
-        },
-        "max": {
-            "album": {
-                "album_type": "single",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27344aef635102ad58a781bd1a1",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0244aef635102ad58a781bd1a1",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485144aef635102ad58a781bd1a1",
-                        "width": 64
-                    }
-                ],
-                "name": "3rd Ward Bounce",
-                "release_date": "2018-06-01"
-            },
-            "artists": [
-                {
-                    "id": "2gyv1akuIB9fQvXoGSPaJr",
-                    "name": "Big Freedia"
-                },
-                {
-                    "id": "56oDRnqbIiwx4mymNEv7dS",
-                    "name": "Lizzo"
-                }
-            ],
-            "duration_ms": 185890,
-            "explicit": true,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
-            },
-            "id": "4nefFqiukTvjgt8hkv73PP",
-            "name": "Karaoke (feat. Lizzo)",
-            "popularity": 54,
-            "features": {
-                "danceability": 0.736,
-                "energy": 0.967,
-                "key": 2,
-                "loudness": -1.284,
-                "mode": 1,
-                "speechiness": 0.126,
-                "acousticness": 0.0358,
-                "instrumentalness": 0,
-                "liveness": 0.398,
-                "valence": 0.497,
-                "tempo": 103.937,
-                "type": "audio_features",
-                "id": "4nefFqiukTvjgt8hkv73PP",
-                "uri": "spotify:track:4nefFqiukTvjgt8hkv73PP",
-                "track_href": "https://api.spotify.com/v1/tracks/4nefFqiukTvjgt8hkv73PP",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4nefFqiukTvjgt8hkv73PP",
-                "duration_ms": 185890,
-                "time_signature": 4
-            }
-        },
-        "sum": -3124.3159999999975,
-        "avg": -8.29
-    },
-    "liveness": {
-        "min": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2739d3105e67ebccedfd7ce88d9",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e029d3105e67ebccedfd7ce88d9",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048519d3105e67ebccedfd7ce88d9",
-                        "width": 64
-                    }
-                ],
-                "name": "Ripely Pine",
-                "release_date": "2013-02-19"
-            },
-            "artists": [
-                {
-                    "id": "2wunbYU5KWrpI7RCRBkwF0",
-                    "name": "Lady Lamb"
-                }
-            ],
-            "duration_ms": 376826,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/1aYnwCzvMk1XIlKitpQsWV"
-            },
-            "id": "1aYnwCzvMk1XIlKitpQsWV",
-            "name": "Bird Balloons",
-            "popularity": 28,
-            "features": {
-                "danceability": 0.419,
-                "energy": 0.523,
-                "key": 1,
-                "loudness": -7.671,
-                "mode": 0,
-                "speechiness": 0.0571,
-                "acousticness": 0.415,
-                "instrumentalness": 0,
-                "liveness": 0.0327,
-                "valence": 0.403,
-                "tempo": 131.22,
-                "type": "audio_features",
-                "id": "1aYnwCzvMk1XIlKitpQsWV",
-                "uri": "spotify:track:1aYnwCzvMk1XIlKitpQsWV",
-                "track_href": "https://api.spotify.com/v1/tracks/1aYnwCzvMk1XIlKitpQsWV",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1aYnwCzvMk1XIlKitpQsWV",
-                "duration_ms": 376827,
-                "time_signature": 3
-            }
-        },
-        "max": {
-            "album": {
-                "album_type": "album",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2736f09f6aa228e82be93be42c6",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e026f09f6aa228e82be93be42c6",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048516f09f6aa228e82be93be42c6",
-                        "width": 64
-                    }
-                ],
-                "name": "Axe the Cables",
-                "release_date": "2010-06-22"
-            },
-            "artists": [
-                {
-                    "id": "1eZ4td9oadjw7GkW0LzxNK",
-                    "name": "STS9"
-                }
-            ],
-            "duration_ms": 273826,
-            "explicit": false,
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/4QPvBstnJz1VgW98jsq1jV"
-            },
-            "id": "4QPvBstnJz1VgW98jsq1jV",
-            "name": "Dem Be - Live - Acoustic",
-            "popularity": 15,
-            "features": {
-                "danceability": 0.413,
-                "energy": 0.758,
-                "key": 9,
-                "loudness": -8.305,
-                "mode": 0,
-                "speechiness": 0.0279,
-                "acousticness": 0.616,
-                "instrumentalness": 0.92,
-                "liveness": 0.961,
-                "valence": 0.279,
-                "tempo": 142.699,
-                "type": "audio_features",
-                "id": "4QPvBstnJz1VgW98jsq1jV",
-                "uri": "spotify:track:4QPvBstnJz1VgW98jsq1jV",
-                "track_href": "https://api.spotify.com/v1/tracks/4QPvBstnJz1VgW98jsq1jV",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QPvBstnJz1VgW98jsq1jV",
-                "duration_ms": 273827,
-                "time_signature": 4
-            }
-        },
-        "sum": 70.05680000000001,
-        "avg": 0.19
     },
     "valence": {
         "min": {
@@ -888,7 +640,7 @@
             },
             "id": "5ZVH9ZZwd5KgYpPaxJRaCc",
             "name": "Nordkap - Original Mix",
-            "popularity": 22,
+            "popularity": 21,
             "features": {
                 "danceability": 0.497,
                 "energy": 0.717,
@@ -968,7 +720,7 @@
                 "time_signature": 4
             }
         },
-        "sum": 174.70729999999998,
+        "sum": 176.64129999999997,
         "avg": 0.46
     },
     "duration_ms": {
@@ -1066,7 +818,7 @@
             },
             "id": "4LkejFo7l7D36wrUfgs10W",
             "name": "For – Peter – Toilet Brushes – More",
-            "popularity": 38,
+            "popularity": 37,
             "features": {
                 "danceability": 0.419,
                 "energy": 0.556,
@@ -1088,65 +840,65 @@
                 "time_signature": 4
             }
         },
-        "sum": 86761486,
-        "avg": 230136.57
+        "sum": 87855703,
+        "avg": 230592.4
     },
-    "energy": {
+    "loudness": {
         "min": {
             "album": {
                 "album_type": "album",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273e31c86c73fea3100ae03261a",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e2884db98b0ef093e43f4442",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02e31c86c73fea3100ae03261a",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e2884db98b0ef093e43f4442",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851e31c86c73fea3100ae03261a",
+                        "url": "https://i.scdn.co/image/ab67616d00004851e2884db98b0ef093e43f4442",
                         "width": 64
                     }
                 ],
-                "name": "To Cy & Lee: Instrumentals, Vol. 1",
-                "release_date": "2020-02-28"
+                "name": "some kind of peace",
+                "release_date": "2020-11-06"
             },
             "artists": [
                 {
-                    "id": "3LfKt6bEMIfFIEryeai8Mm",
-                    "name": "Alabaster DePlume"
+                    "id": "7E3BRXV9ZbCt5lQTCXMTia",
+                    "name": "Ólafur Arnalds"
                 }
             ],
-            "duration_ms": 292626,
+            "duration_ms": 303891,
             "explicit": false,
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/1D7z1q00OijYNrr0Bd05Zz"
+                "spotify": "https://open.spotify.com/track/5H2Mf22OhaswQNHZwb7q5h"
             },
-            "id": "1D7z1q00OijYNrr0Bd05Zz",
-            "name": "Visit Croatia",
-            "popularity": 23,
+            "id": "5H2Mf22OhaswQNHZwb7q5h",
+            "name": "Undone",
+            "popularity": 42,
             "features": {
-                "danceability": 0.288,
-                "energy": 0.0604,
-                "key": 0,
-                "loudness": -15.886,
-                "mode": 0,
-                "speechiness": 0.0351,
-                "acousticness": 0.951,
-                "instrumentalness": 0.932,
-                "liveness": 0.118,
-                "valence": 0.126,
-                "tempo": 104.46,
+                "danceability": 0.272,
+                "energy": 0.0775,
+                "key": 6,
+                "loudness": -25.807,
+                "mode": 1,
+                "speechiness": 0.0427,
+                "acousticness": 0.989,
+                "instrumentalness": 0.566,
+                "liveness": 0.117,
+                "valence": 0.101,
+                "tempo": 119.899,
                 "type": "audio_features",
-                "id": "1D7z1q00OijYNrr0Bd05Zz",
-                "uri": "spotify:track:1D7z1q00OijYNrr0Bd05Zz",
-                "track_href": "https://api.spotify.com/v1/tracks/1D7z1q00OijYNrr0Bd05Zz",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1D7z1q00OijYNrr0Bd05Zz",
-                "duration_ms": 292627,
+                "id": "5H2Mf22OhaswQNHZwb7q5h",
+                "uri": "spotify:track:5H2Mf22OhaswQNHZwb7q5h",
+                "track_href": "https://api.spotify.com/v1/tracks/5H2Mf22OhaswQNHZwb7q5h",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5H2Mf22OhaswQNHZwb7q5h",
+                "duration_ms": 303892,
                 "time_signature": 4
             }
         },
@@ -1156,59 +908,307 @@
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273fce4082cf662cefd2fc0237d",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27344aef635102ad58a781bd1a1",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02fce4082cf662cefd2fc0237d",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0244aef635102ad58a781bd1a1",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851fce4082cf662cefd2fc0237d",
+                        "url": "https://i.scdn.co/image/ab67616d0000485144aef635102ad58a781bd1a1",
                         "width": 64
                     }
                 ],
-                "name": "Darkside",
+                "name": "3rd Ward Bounce",
+                "release_date": "2018-06-01"
+            },
+            "artists": [
+                {
+                    "id": "2gyv1akuIB9fQvXoGSPaJr",
+                    "name": "Big Freedia"
+                },
+                {
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo"
+                }
+            ],
+            "duration_ms": 185890,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
+            },
+            "id": "4nefFqiukTvjgt8hkv73PP",
+            "name": "Karaoke (feat. Lizzo)",
+            "popularity": 53,
+            "features": {
+                "danceability": 0.736,
+                "energy": 0.967,
+                "key": 2,
+                "loudness": -1.284,
+                "mode": 1,
+                "speechiness": 0.126,
+                "acousticness": 0.0358,
+                "instrumentalness": 0,
+                "liveness": 0.398,
+                "valence": 0.497,
+                "tempo": 103.937,
+                "type": "audio_features",
+                "id": "4nefFqiukTvjgt8hkv73PP",
+                "uri": "spotify:track:4nefFqiukTvjgt8hkv73PP",
+                "track_href": "https://api.spotify.com/v1/tracks/4nefFqiukTvjgt8hkv73PP",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4nefFqiukTvjgt8hkv73PP",
+                "duration_ms": 185890,
+                "time_signature": 4
+            }
+        },
+        "sum": -3176.3929999999973,
+        "avg": -8.34
+    },
+    "instrumentalness": {
+        "min": {
+            "album": {
+                "album_type": "single",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27369b4d7f351f084ac249891f1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0269b4d7f351f084ac249891f1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485169b4d7f351f084ac249891f1",
+                        "width": 64
+                    }
+                ],
+                "name": "Suburbia",
+                "release_date": "2019-06-21"
+            },
+            "artists": [
+                {
+                    "id": "6luAca5rbgQNksPZhVLo17",
+                    "name": "Order Sixty6"
+                }
+            ],
+            "duration_ms": 210961,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3x8US7nlhXtgGPrvV976T2"
+            },
+            "id": "3x8US7nlhXtgGPrvV976T2",
+            "name": "Suburbia",
+            "popularity": 5,
+            "features": {
+                "danceability": 0.755,
+                "energy": 0.577,
+                "key": 1,
+                "loudness": -6.612,
+                "mode": 0,
+                "speechiness": 0.379,
+                "acousticness": 0.241,
+                "instrumentalness": 0,
+                "liveness": 0.094,
+                "valence": 0.809,
+                "tempo": 156.058,
+                "type": "audio_features",
+                "id": "3x8US7nlhXtgGPrvV976T2",
+                "uri": "spotify:track:3x8US7nlhXtgGPrvV976T2",
+                "track_href": "https://api.spotify.com/v1/tracks/3x8US7nlhXtgGPrvV976T2",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3x8US7nlhXtgGPrvV976T2",
+                "duration_ms": 210962,
+                "time_signature": 4
+            }
+        },
+        "max": {
+            "album": {
+                "album_type": "single",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737e8a7f914cd2af45078f8c43",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027e8a7f914cd2af45078f8c43",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517e8a7f914cd2af45078f8c43",
+                        "width": 64
+                    }
+                ],
+                "name": "unwind tape",
+                "release_date": "2021-01-22"
+            },
+            "artists": [
+                {
+                    "id": "40LG0ZgaIlEWo1mwGNp4yo",
+                    "name": "Sundreamer"
+                },
+                {
+                    "id": "5BCLvW3qaUm39VjiZ8INmm",
+                    "name": "edapollo"
+                }
+            ],
+            "duration_ms": 137439,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6Pq35pSBDs4FVlieD3EulS"
+            },
+            "id": "6Pq35pSBDs4FVlieD3EulS",
+            "name": "fairfield boathouse",
+            "popularity": 31,
+            "features": {
+                "danceability": 0.25,
+                "energy": 0.123,
+                "key": 5,
+                "loudness": -21.517,
+                "mode": 1,
+                "speechiness": 0.0387,
+                "acousticness": 0.942,
+                "instrumentalness": 0.963,
+                "liveness": 0.114,
+                "valence": 0.159,
+                "tempo": 81.647,
+                "type": "audio_features",
+                "id": "6Pq35pSBDs4FVlieD3EulS",
+                "uri": "spotify:track:6Pq35pSBDs4FVlieD3EulS",
+                "track_href": "https://api.spotify.com/v1/tracks/6Pq35pSBDs4FVlieD3EulS",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Pq35pSBDs4FVlieD3EulS",
+                "duration_ms": 137439,
+                "time_signature": 4
+            }
+        },
+        "sum": 61.618713299999996,
+        "avg": 0.16
+    },
+    "tempo": {
+        "min": {
+            "album": {
+                "album_type": "album",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730d8d14879eee56f4c35f436e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020d8d14879eee56f4c35f436e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510d8d14879eee56f4c35f436e",
+                        "width": 64
+                    }
+                ],
+                "name": "Salt",
                 "release_date": "2019-07-26"
             },
             "artists": [
                 {
-                    "id": "6FBDaR13swtiWwGhX1WQsP",
-                    "name": "blink-182"
+                    "id": "574ERIqzZ5yZU9JhIf3Ysf",
+                    "name": "Angie McMahon"
                 }
             ],
-            "duration_ms": 49146,
+            "duration_ms": 223000,
             "explicit": false,
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/0YDcnsYCut5RFPfgAgjS2T"
+                "spotify": "https://open.spotify.com/track/18uI37pTOz9tfk3U4jB8ci"
             },
-            "id": "0YDcnsYCut5RFPfgAgjS2T",
-            "name": "Generational Divide",
-            "popularity": 0,
+            "id": "18uI37pTOz9tfk3U4jB8ci",
+            "name": "Soon",
+            "popularity": 40,
             "features": {
-                "danceability": 0.343,
-                "energy": 0.974,
-                "key": 5,
-                "loudness": -1.998,
+                "danceability": 0.522,
+                "energy": 0.138,
+                "key": 4,
+                "loudness": -12.233,
                 "mode": 1,
-                "speechiness": 0.0789,
-                "acousticness": 0.00016,
-                "instrumentalness": 0.000306,
-                "liveness": 0.096,
-                "valence": 0.184,
-                "tempo": 184.901,
+                "speechiness": 0.0328,
+                "acousticness": 0.673,
+                "instrumentalness": 6.1e-06,
+                "liveness": 0.111,
+                "valence": 0.111,
+                "tempo": 49.725,
                 "type": "audio_features",
-                "id": "0YDcnsYCut5RFPfgAgjS2T",
-                "uri": "spotify:track:0YDcnsYCut5RFPfgAgjS2T",
-                "track_href": "https://api.spotify.com/v1/tracks/0YDcnsYCut5RFPfgAgjS2T",
-                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YDcnsYCut5RFPfgAgjS2T",
-                "duration_ms": 49147,
+                "id": "18uI37pTOz9tfk3U4jB8ci",
+                "uri": "spotify:track:18uI37pTOz9tfk3U4jB8ci",
+                "track_href": "https://api.spotify.com/v1/tracks/18uI37pTOz9tfk3U4jB8ci",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/18uI37pTOz9tfk3U4jB8ci",
+                "duration_ms": 223000,
                 "time_signature": 4
             }
         },
-        "sum": 234.71499999999992,
-        "avg": 0.62
+        "max": {
+            "album": {
+                "album_type": "single",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fda4470d6b1522fff5ab16aa",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fda4470d6b1522fff5ab16aa",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fda4470d6b1522fff5ab16aa",
+                        "width": 64
+                    }
+                ],
+                "name": "Two of a Kind",
+                "release_date": "2020-07-08"
+            },
+            "artists": [
+                {
+                    "id": "6P727EkBvvBKIrMHEu83eT",
+                    "name": "Adam Newling"
+                }
+            ],
+            "duration_ms": 172857,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5Z1R8811ADlzOJDFlv5G4t"
+            },
+            "id": "5Z1R8811ADlzOJDFlv5G4t",
+            "name": "Two of a Kind",
+            "popularity": 18,
+            "features": {
+                "danceability": 0.338,
+                "energy": 0.859,
+                "key": 6,
+                "loudness": -6.263,
+                "mode": 0,
+                "speechiness": 0.0559,
+                "acousticness": 0.000434,
+                "instrumentalness": 9.9e-06,
+                "liveness": 0.125,
+                "valence": 0.467,
+                "tempo": 215.066,
+                "type": "audio_features",
+                "id": "5Z1R8811ADlzOJDFlv5G4t",
+                "uri": "spotify:track:5Z1R8811ADlzOJDFlv5G4t",
+                "track_href": "https://api.spotify.com/v1/tracks/5Z1R8811ADlzOJDFlv5G4t",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Z1R8811ADlzOJDFlv5G4t",
+                "duration_ms": 172857,
+                "time_signature": 4
+            }
+        },
+        "sum": 45478.61499999999,
+        "avg": 119.37
     }
 }
