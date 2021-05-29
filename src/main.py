@@ -41,4 +41,4 @@ def main(episode_name: str) -> None:
 
 
 if __name__ == "__main__":
-    main(episode_name="21_02_26")
+    main(episode_name="")
